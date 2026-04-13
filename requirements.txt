@@ -1,0 +1,9 @@
+sqlite-vec
+requests
+watchdog
+mss
+pillow
+winocr
+fastapi
+uvicorn[standard]
+pyqt6
